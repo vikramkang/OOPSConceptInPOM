@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="2" verbose="5" name="my hubspot test for firefox(failed)" parallel="methods">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://app.hubspot.com/login"/>
+    <classes>
+      <class name="com.MyTests.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLoginPageTitleTest"/>
+          <include name="verifyLoginPageHeaderTest"/>
+          <include name="verifyDoLogin"/>
+          <include name="verifyDoLogin2"/>
+          <include name="setUpTest"/>
+          <include name="verifyDoLogin3"/>
+        </methods>
+      </class> <!-- com.MyTests.LoginPageTest -->
+    </classes>
+  </test> <!-- my hubspot test for firefox(failed) -->
+</suite> <!-- Failed suite [Suite] -->

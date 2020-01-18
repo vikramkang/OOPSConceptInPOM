@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OOPS Concepts in POM" duration-ms="62948" started-at="2020-01-13T19:57:18Z" finished-at="2020-01-13T19:58:21Z">
+    <groups>
+    </groups>
+    <test name="DisplayDetails" duration-ms="62948" started-at="2020-01-13T19:57:18Z" finished-at="2020-01-13T19:58:21Z">
+      <class name="com.MyTests.LoginPageTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="setUpTest" is-config="true" duration-ms="11971" started-at="2020-01-13T19:57:18Z" finished-at="2020-01-13T19:57:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.MyTests.LoginPageTest@13f5a29]" name="verifyLoginPageTitleTest" duration-ms="12" started-at="2020-01-13T19:57:30Z" finished-at="2020-01-13T19:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="tearDown" is-config="true" duration-ms="592" started-at="2020-01-13T19:57:30Z" finished-at="2020-01-13T19:57:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="setUpTest" is-config="true" duration-ms="11168" started-at="2020-01-13T19:57:31Z" finished-at="2020-01-13T19:57:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLoginPageHeaderTest()[pri:2, instance:com.MyTests.LoginPageTest@13f5a29]" name="verifyLoginPageHeaderTest" duration-ms="52" started-at="2020-01-13T19:57:42Z" finished-at="2020-01-13T19:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageHeaderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="tearDown" is-config="true" duration-ms="1064" started-at="2020-01-13T19:57:42Z" finished-at="2020-01-13T19:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="setUpTest" is-config="true" duration-ms="11271" started-at="2020-01-13T19:57:43Z" finished-at="2020-01-13T19:57:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyDoLogin()[pri:3, instance:com.MyTests.LoginPageTest@13f5a29]" name="verifyDoLogin" duration-ms="1669" started-at="2020-01-13T19:57:54Z" finished-at="2020-01-13T19:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDoLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="tearDown" is-config="true" duration-ms="630" started-at="2020-01-13T19:57:56Z" finished-at="2020-01-13T19:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="setUpTest" is-config="true" duration-ms="11217" started-at="2020-01-13T19:57:56Z" finished-at="2020-01-13T19:58:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyDoLogin2()[pri:4, instance:com.MyTests.LoginPageTest@13f5a29]" name="verifyDoLogin2" duration-ms="251" started-at="2020-01-13T19:58:08Z" finished-at="2020-01-13T19:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDoLogin2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="tearDown" is-config="true" duration-ms="863" started-at="2020-01-13T19:58:08Z" finished-at="2020-01-13T19:58:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="setUpTest" is-config="true" duration-ms="11393" started-at="2020-01-13T19:58:09Z" finished-at="2020-01-13T19:58:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyDoLogin3()[pri:5, instance:com.MyTests.LoginPageTest@13f5a29]" name="verifyDoLogin3" duration-ms="154" started-at="2020-01-13T19:58:20Z" finished-at="2020-01-13T19:58:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDoLogin3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MyTests.LoginPageTest@13f5a29]" name="tearDown" is-config="true" duration-ms="621" started-at="2020-01-13T19:58:20Z" finished-at="2020-01-13T19:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.MyTests.LoginPageTest -->
+    </test> <!-- DisplayDetails -->
+  </suite> <!-- OOPS Concepts in POM -->
+</testng-results>
